@@ -46,7 +46,7 @@ section {
 
 footer {
    background-color: #003366;
-   color: white;
+   color: rgb(255, 255, 255);
    text-align: center;
    padding: 15px;
 }
