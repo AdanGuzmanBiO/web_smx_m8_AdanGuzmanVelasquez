@@ -45,8 +45,8 @@ section {
 }
 
 footer {
-   background-color: #003366;
-   color: rgb(255, 255, 255);
+   background-color: #ebeef1;
+   color: rgba(51, 18, 235, 0.973);
    text-align: center;
-   padding: 15px;
+   padding: 30px;
 }
